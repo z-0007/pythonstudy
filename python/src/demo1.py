@@ -1,1 +1,1 @@
-print('heooll')
+print('12345')
